@@ -1,7 +1,9 @@
-# E-Inivitation_Birthday
+# E-Invitation_Birthday
 
-E-Inivitation_Birthday is project e-invitation web and u can use it for invite someone on ur birthday 
+E-Invitation_Birthday is project e-invitation web and u can use it for invite someone on ur birthday
 
-### HTML 
-### CSS
-### JS
+this Website using : 
+
+### HTML ✽
+### CSS ❁
+### JS ✿
